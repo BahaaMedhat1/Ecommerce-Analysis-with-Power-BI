@@ -6,6 +6,8 @@ This repository contains an interactive Power BI dashboard designed for analyzin
 
 ## 📊 Dashboard Overview
 
+![E-commerce Dashboard](Dashboard.png)
+
 ### Key Features
 - **KPIs:** Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margins.
 - **Year-over-Year Analysis:** Year-on-Year (YoY) growth for key metrics.
@@ -53,13 +55,6 @@ A U.S.-based e-commerce sales company required a comprehensive dashboard to:
 - **Sales Trends:** The West region leads with 32.22% of sales, followed by the East.
 - **Product Performance:** "Staple Envelope" is the top product, while "Rediform S.O.S. Phone" is the least-performing.
 - **Customer Preferences:** Standard class shipping dominates sales with 60.51%.
-
----
-
-## 📷 Screenshots
-
-### Full Dashboard Overview:
-![E-commerce Dashboard](Dashboard.png)
 
 ---
 
