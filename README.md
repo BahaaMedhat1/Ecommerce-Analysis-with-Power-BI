@@ -59,7 +59,7 @@ A U.S.-based e-commerce sales company required a comprehensive dashboard to:
 ## 📷 Screenshots
 
 ### Full Dashboard Overview:
-![E-commerce Dashboard](dashboard.png)
+![E-commerce Dashboard](Dashboard.png)
 
 ---
 
